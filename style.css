@@ -1,0 +1,11 @@
+body {
+  font-family: monospace;
+  font-size: 22px;
+  color: darkgreen;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
